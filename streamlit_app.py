@@ -3,8 +3,9 @@ import pandas as pd
 import plotly.express as px
 import seaborn as sns
 
-import ssl
-ssl._create_default_https_context = ssl._create_unverified_context
+# when you want to import dataset from website
+# import ssl
+# ssl._create_default_https_context = ssl._create_unverified_context
 
 st.set_option('deprecation.showPyplotGlobalUse', False)
 # Loading dataset 
