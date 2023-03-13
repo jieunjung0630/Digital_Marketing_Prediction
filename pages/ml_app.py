@@ -1,6 +1,6 @@
 import streamlit as st
 from sklearn.ensemble import RandomForestClassifier
-from sklearn.datasets import load_breast_cancer
+# from sklearn.datasets import load_breast_cancer # dataset for the use of another experiment 
 import numpy as np
 import pandas as pd
 import seaborn as sns
