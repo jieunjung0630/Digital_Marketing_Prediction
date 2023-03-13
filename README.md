@@ -10,7 +10,7 @@ conda activate myenv
 
 pip install -r requireemtns.txt
 
-streamlit run streamlit-app.py
+streamlit run streamlit_app.py
 
 ![image](https://user-images.githubusercontent.com/125840647/224606275-e30e0d97-d420-4014-88fb-270aa582efa3.png)
 
