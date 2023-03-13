@@ -1,6 +1,6 @@
 ### Digital Marketing Campaign Performance Prediction
 
-This App contains simple EDA and prediction example of Digital Marketing Campaign Dataset.
+This App shows basic EDA and prediction on customer acceptance of campaign using Digital Marketing Campaign Dataset.
 
 ### How to run this app
 
