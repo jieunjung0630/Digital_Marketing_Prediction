@@ -74,7 +74,7 @@ for col in df.columns[:-1]:
 prediction = clf.predict([user_input])
 
 # Display the prediction
-st.markdown('### Accept VS Not Accept')
+st.markdown('### Number of Acceptance')
 
 # Calculate the false positive rate and true positive rate
 import matplotlib.pyplot as plt
