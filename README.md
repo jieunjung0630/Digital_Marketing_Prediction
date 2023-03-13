@@ -2,7 +2,7 @@
 
 This App contains simple EDA and prediction example of Digital Marketing Campaign Dataset.
 
-### How to run the app
+### How to run this app
 
 conda create -n myenv
 conda activate myenv
