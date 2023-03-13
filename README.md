@@ -8,7 +8,7 @@ conda create -n myenv
 
 conda activate myenv
 
-pip install -r requireemtns.txt
+pip install -r requirements.txt
 
 streamlit run streamlit_app.py
 
